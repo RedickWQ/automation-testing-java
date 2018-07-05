@@ -1,0 +1,22 @@
+{
+  "patentapi": {
+    "address": "http://192.168.3.143:8081/openapi/2.0.0"
+  },
+
+  "identity": {
+    "address": "http://s-identity-qa.patsnap.local:8080"
+  },
+    "innosnap": {
+    "address": "http://api-gateway-qa5.innosnap.local/inno-data/basic2"
+  },
+    "analytics": {
+      "address": "http://analytics.zhihuiya.com",
+      "redirectUrl": "http://analytics.zhihuiya.com/initSession",
+      "username": "username",
+      "password": "password"
+  },
+  "searchAPI": {
+    "address": "http://s-search-search-api.patsnap.qa/searchapi/2.0.0/patent"
+  }
+
+}

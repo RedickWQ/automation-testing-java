@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../automation-testing-java/automation-testing-core/automation-testing-core.iml" filepath="$PROJECT_DIR$/../automation-testing-java/automation-testing-core/automation-testing-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automation-testing-java/automation-testing-debug/automation-testing-debug.iml" filepath="$PROJECT_DIR$/../automation-testing-java/automation-testing-debug/automation-testing-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automation-testing-java/automation-testing-dependencies/automation-testing-dependencies.iml" filepath="$PROJECT_DIR$/../automation-testing-java/automation-testing-dependencies/automation-testing-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automation-testing-java/automation-testing-java.iml" filepath="$PROJECT_DIR$/../automation-testing-java/automation-testing-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automation-testing-java/automation-testing-parent/automation-testing-parent.iml" filepath="$PROJECT_DIR$/../automation-testing-java/automation-testing-parent/automation-testing-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../automation-testing-java/automation-testing-web/automation-testing-web.iml" filepath="$PROJECT_DIR$/../automation-testing-java/automation-testing-web/automation-testing-web.iml" />
+    </modules>
+  </component>
+</project>

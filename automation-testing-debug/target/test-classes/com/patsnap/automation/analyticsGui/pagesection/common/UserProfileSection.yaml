@@ -1,0 +1,6 @@
+userPannel:
+  type: "xpath"
+  value: "//span[@class='user-email']"
+logoutLink:
+  type: "xpath"
+  value: "//*[@href='/logout']"

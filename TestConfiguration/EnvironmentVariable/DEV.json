@@ -1,0 +1,20 @@
+{
+  "analytics": {
+    "address": "http://dev-analytics.zhihuiya.com"
+  },
+  "passport": {
+    "address": "http://dev-passport.zhihuiya.com"
+  },
+  "openapi": {
+    "address": "http://192.168.3.44:9088/cloud_patent"
+  },
+  "cloud_patent" : {
+    "address":"https://192.168.3.44:8443/"
+  },
+
+  "connector" : {
+    "address": "http://192.168.2.36:8090/",
+    "username" : "a205ea81ec154fda8c75e667499bd59a",
+    "password" : "ENLQZGttIhqV2CteXBzhNj9ImIU6bvGs"
+  }
+}

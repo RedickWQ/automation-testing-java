@@ -1,0 +1,18 @@
+{
+  "identity": {
+    "address": "http://s-identity-ci.patsnap.local:8081"
+  },
+  "backend":{
+    "address": "http://s-insights-src.patsnap.ci/insights"
+  },
+  "searchAPI": {
+    "address": "http://s-search-search-api.patsnap.ci/searchapi/2.0.0/patent"
+  },
+  "litigation":{
+    "address":"http://s-search-license-litigation-solr.patsnap.ci/patsnap/LITIGATION/select"
+  },
+  "solr":{
+    "address":"http://s-search-patent-solr.patsnap.ci/patsnap/PATENT/select"
+  }
+
+}

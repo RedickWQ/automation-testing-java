@@ -1,0 +1,47 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.automation</groupId>
+    <artifactId>automation-testing-java</artifactId>
+    <version>Rel.1.0.0</version>
+    <packaging>pom</packaging>
+
+    <prerequisites>
+        <maven>3.0.0</maven>
+    </prerequisites>
+
+    <modules>
+        <module>automation-testing-dependencies</module>
+        <module>automation-testing-parent</module>
+        <module>automation-testing-core</module>
+        <module>automation-testing-web</module>
+        <module>automation-testing-debug</module>
+    </modules>
+
+
+
+    <!--<distributionManagement>-->
+        <!--<repository>-->
+            <!--<id>deployment</id>-->
+            <!--<name>Internal Releases</name>-->
+            <!--<url>http://nexus.patsnap.com/content/repositories/releases/</url>-->
+        <!--</repository>-->
+        <!--<snapshotRepository>-->
+            <!--<id>deployment</id>-->
+            <!--<name>Internal Snapshots</name>-->
+            <!--<url>http://nexus.patsnap.com/content/repositories/snapshots/</url>-->
+        <!--</snapshotRepository>-->
+    <!--</distributionManagement>-->
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.sonarsource.scanner.maven</groupId>
+                <artifactId>sonar-maven-plugin</artifactId>
+                <version>3.0.1</version>
+            </plugin>
+        </plugins>
+    </build>
+</project>

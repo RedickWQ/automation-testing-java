@@ -1,0 +1,6 @@
+keyword:
+  type: "xpath"
+  value: "//*[@id='contentform']/div[3]/input[@type='text' and @name='all']"
+searchButton:
+  type: "xpath"
+  value: "//*[@id='contentform']/button"

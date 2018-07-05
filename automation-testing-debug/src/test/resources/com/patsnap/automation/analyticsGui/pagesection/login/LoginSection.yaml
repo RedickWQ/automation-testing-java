@@ -1,0 +1,9 @@
+username:
+  type: "name"
+  value: "username"
+password:
+  type: "id"
+  value: "password"
+loginButton:
+  type: "id"
+  value: "log-button"

@@ -1,0 +1,15 @@
+{
+  "analytics": {
+    "address": "http://analytics.zhihuiya.com",
+    "username": "liuyikai@patsnap.com",
+    "password": "BlizzArd432!"
+  },
+  "connector": {
+    "address": "https://con.zhihuiya.com/",
+    "username": "d37d1cfd97f544a2b99ae7c4fba2941b",
+    "password": "CsJDMHt0oeiwB1VVXOK9FprzD5lDlAkT"
+  },
+  "openapi": {
+    "address": "https://api.zhihuiya.com/"
+  }
+}

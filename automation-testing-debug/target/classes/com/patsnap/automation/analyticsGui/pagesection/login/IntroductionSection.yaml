@@ -1,0 +1,3 @@
+EntryLink:
+  type: "xpath"
+  value: "//*[contains(@href, '/simple')]"
